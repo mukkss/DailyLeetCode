@@ -17,6 +17,7 @@ This repository contains my solutions to daily LeetCode challenges as I work thr
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mukkss/DailyLeetCode/tree/master/0015-3sum) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/mukkss/DailyLeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
 |  |
 | ------- |
