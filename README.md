@@ -21,8 +21,13 @@ This repository contains my solutions to daily LeetCode challenges as I work thr
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mukkss/DailyLeetCode/tree/master/0015-3sum) |
+| [1894-merge-strings-alternately](https://github.com/mukkss/DailyLeetCode/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mukkss/DailyLeetCode/tree/master/0015-3sum) |
+## String
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/mukkss/DailyLeetCode/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
