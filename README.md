@@ -27,6 +27,7 @@ This repository contains my solutions to daily LeetCode challenges as I work thr
 | [0015-3sum](https://github.com/mukkss/DailyLeetCode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/mukkss/DailyLeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/mukkss/DailyLeetCode/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/mukkss/DailyLeetCode/tree/master/0567-permutation-in-string) |
 | [1894-merge-strings-alternately](https://github.com/mukkss/DailyLeetCode/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -38,6 +39,7 @@ This repository contains my solutions to daily LeetCode challenges as I work thr
 | ------- |
 | [0125-valid-palindrome](https://github.com/mukkss/DailyLeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/mukkss/DailyLeetCode/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/mukkss/DailyLeetCode/tree/master/0567-permutation-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/mukkss/DailyLeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/mukkss/DailyLeetCode/tree/master/1894-merge-strings-alternately) |
 ## Math
@@ -49,8 +51,13 @@ This repository contains my solutions to daily LeetCode challenges as I work thr
 | ------- |
 | [0001-two-sum](https://github.com/mukkss/DailyLeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/mukkss/DailyLeetCode/tree/master/0217-contains-duplicate) |
+| [0567-permutation-in-string](https://github.com/mukkss/DailyLeetCode/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mukkss/DailyLeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/mukkss/DailyLeetCode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
