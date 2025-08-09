@@ -39,6 +39,7 @@ This repository contains my solutions to daily LeetCode challenges as I work thr
 | ------- |
 | [0125-valid-palindrome](https://github.com/mukkss/DailyLeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/mukkss/DailyLeetCode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/mukkss/DailyLeetCode/tree/master/0383-ransom-note) |
 | [0567-permutation-in-string](https://github.com/mukkss/DailyLeetCode/tree/master/0567-permutation-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/mukkss/DailyLeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/mukkss/DailyLeetCode/tree/master/1894-merge-strings-alternately) |
@@ -51,6 +52,7 @@ This repository contains my solutions to daily LeetCode challenges as I work thr
 | ------- |
 | [0001-two-sum](https://github.com/mukkss/DailyLeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/mukkss/DailyLeetCode/tree/master/0217-contains-duplicate) |
+| [0383-ransom-note](https://github.com/mukkss/DailyLeetCode/tree/master/0383-ransom-note) |
 | [0567-permutation-in-string](https://github.com/mukkss/DailyLeetCode/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
@@ -60,4 +62,8 @@ This repository contains my solutions to daily LeetCode challenges as I work thr
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/mukkss/DailyLeetCode/tree/master/0567-permutation-in-string) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/mukkss/DailyLeetCode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
