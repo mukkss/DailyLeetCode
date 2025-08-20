@@ -21,19 +21,15 @@ class Solution {
   public:
     Node *insertAtEnd(Node *head, int x) {
         // Code here
-        Node * temp = new Node(x) ;
-        temp->next = NULL ;
-        
-        if(head==NULL) return temp ;
-        
-        
-        Node * mover = head ;
-        while(mover->next != NULL){
-            mover = mover->next ;
+        if(head == NULL){
+            return new Node(x);
         }
-        
-        mover->next = temp ;
-        
-        return head ;
+        Node* temp = head;
+        while(temp->next != NULL){
+            temp = temp->next;
+        }
+        Node* newN = new Node(x);
+        temp->next = newN;
+        return head;
     }
 };
