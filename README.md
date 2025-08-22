@@ -20,6 +20,7 @@ This repository contains my solutions to daily LeetCode challenges as I work thr
 | [0015-3sum](https://github.com/mukkss/DailyLeetCode/tree/master/0015-3sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mukkss/DailyLeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/mukkss/DailyLeetCode/tree/master/0217-contains-duplicate) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/mukkss/DailyLeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mukkss/DailyLeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
 |  |
@@ -70,4 +71,8 @@ This repository contains my solutions to daily LeetCode challenges as I work thr
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/mukkss/DailyLeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/mukkss/DailyLeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
