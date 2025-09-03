@@ -71,10 +71,15 @@ This repository contains my solutions to daily LeetCode challenges as I work thr
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/mukkss/DailyLeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/mukkss/DailyLeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/mukkss/DailyLeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/mukkss/DailyLeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/mukkss/DailyLeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
