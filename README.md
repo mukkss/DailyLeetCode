@@ -39,6 +39,7 @@ This repository contains my solutions to daily LeetCode challenges as I work thr
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mukkss/DailyLeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/mukkss/DailyLeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/mukkss/DailyLeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/mukkss/DailyLeetCode/tree/master/0383-ransom-note) |
@@ -104,4 +105,8 @@ This repository contains my solutions to daily LeetCode challenges as I work thr
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mukkss/DailyLeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/mukkss/DailyLeetCode/tree/master/0543-diameter-of-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mukkss/DailyLeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
