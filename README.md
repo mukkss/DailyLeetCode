@@ -88,6 +88,7 @@ This repository contains my solutions to daily LeetCode challenges as I work thr
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/mukkss/DailyLeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mukkss/DailyLeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/mukkss/DailyLeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/mukkss/DailyLeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -99,14 +100,17 @@ This repository contains my solutions to daily LeetCode challenges as I work thr
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/mukkss/DailyLeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mukkss/DailyLeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/mukkss/DailyLeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/mukkss/DailyLeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mukkss/DailyLeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/mukkss/DailyLeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/mukkss/DailyLeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mukkss/DailyLeetCode/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/mukkss/DailyLeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
