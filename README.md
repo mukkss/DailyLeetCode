@@ -18,6 +18,7 @@ This repository contains my solutions to daily LeetCode challenges as I work thr
 | ------- |
 | [0001-two-sum](https://github.com/mukkss/DailyLeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/mukkss/DailyLeetCode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/mukkss/DailyLeetCode/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mukkss/DailyLeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/mukkss/DailyLeetCode/tree/master/0217-contains-duplicate) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/mukkss/DailyLeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -35,12 +36,14 @@ This repository contains my solutions to daily LeetCode challenges as I work thr
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mukkss/DailyLeetCode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/mukkss/DailyLeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/mukkss/DailyLeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mukkss/DailyLeetCode/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mukkss/DailyLeetCode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/mukkss/DailyLeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/mukkss/DailyLeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/mukkss/DailyLeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mukkss/DailyLeetCode/tree/master/0344-reverse-string) |
@@ -56,6 +59,7 @@ This repository contains my solutions to daily LeetCode challenges as I work thr
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mukkss/DailyLeetCode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/mukkss/DailyLeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/mukkss/DailyLeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mukkss/DailyLeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/mukkss/DailyLeetCode/tree/master/0383-ransom-note) |
