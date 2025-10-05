@@ -55,6 +55,7 @@ This repository contains my solutions to daily LeetCode challenges as I work thr
 ## Math
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/mukkss/DailyLeetCode/tree/master/0371-sum-of-two-integers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/mukkss/DailyLeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Hash Table
 |  |
@@ -125,4 +126,8 @@ This repository contains my solutions to daily LeetCode challenges as I work thr
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/mukkss/DailyLeetCode/tree/master/0605-can-place-flowers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/mukkss/DailyLeetCode/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
