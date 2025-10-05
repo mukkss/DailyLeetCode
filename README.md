@@ -21,6 +21,7 @@ This repository contains my solutions to daily LeetCode challenges as I work thr
 | [0049-group-anagrams](https://github.com/mukkss/DailyLeetCode/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mukkss/DailyLeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/mukkss/DailyLeetCode/tree/master/0217-contains-duplicate) |
+| [0605-can-place-flowers](https://github.com/mukkss/DailyLeetCode/tree/master/0605-can-place-flowers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/mukkss/DailyLeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mukkss/DailyLeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
@@ -120,4 +121,8 @@ This repository contains my solutions to daily LeetCode challenges as I work thr
 | ------- |
 | [0020-valid-parentheses](https://github.com/mukkss/DailyLeetCode/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mukkss/DailyLeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/mukkss/DailyLeetCode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
