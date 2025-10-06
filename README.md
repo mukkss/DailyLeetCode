@@ -21,6 +21,7 @@ This repository contains my solutions to daily LeetCode challenges as I work thr
 | [0049-group-anagrams](https://github.com/mukkss/DailyLeetCode/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mukkss/DailyLeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/mukkss/DailyLeetCode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/mukkss/DailyLeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/mukkss/DailyLeetCode/tree/master/0605-can-place-flowers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/mukkss/DailyLeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mukkss/DailyLeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -40,6 +41,7 @@ This repository contains my solutions to daily LeetCode challenges as I work thr
 | [0049-group-anagrams](https://github.com/mukkss/DailyLeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/mukkss/DailyLeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mukkss/DailyLeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/mukkss/DailyLeetCode/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -64,6 +66,7 @@ This repository contains my solutions to daily LeetCode challenges as I work thr
 | [0049-group-anagrams](https://github.com/mukkss/DailyLeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/mukkss/DailyLeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mukkss/DailyLeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/mukkss/DailyLeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/mukkss/DailyLeetCode/tree/master/0383-ransom-note) |
 | [0567-permutation-in-string](https://github.com/mukkss/DailyLeetCode/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
@@ -77,6 +80,7 @@ This repository contains my solutions to daily LeetCode challenges as I work thr
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/mukkss/DailyLeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/mukkss/DailyLeetCode/tree/master/0383-ransom-note) |
 ## Linked List
 |  |
@@ -130,4 +134,20 @@ This repository contains my solutions to daily LeetCode challenges as I work thr
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/mukkss/DailyLeetCode/tree/master/0371-sum-of-two-integers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mukkss/DailyLeetCode/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mukkss/DailyLeetCode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mukkss/DailyLeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mukkss/DailyLeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
