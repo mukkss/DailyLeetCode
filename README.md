@@ -21,6 +21,7 @@ This repository contains my solutions to daily LeetCode challenges as I work thr
 | [0049-group-anagrams](https://github.com/mukkss/DailyLeetCode/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mukkss/DailyLeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/mukkss/DailyLeetCode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/mukkss/DailyLeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/mukkss/DailyLeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/mukkss/DailyLeetCode/tree/master/0605-can-place-flowers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/mukkss/DailyLeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -150,4 +151,8 @@ This repository contains my solutions to daily LeetCode challenges as I work thr
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mukkss/DailyLeetCode/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/mukkss/DailyLeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
