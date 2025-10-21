@@ -158,5 +158,6 @@ This repository contains my solutions to daily LeetCode challenges as I work thr
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/mukkss/DailyLeetCode/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/mukkss/DailyLeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
