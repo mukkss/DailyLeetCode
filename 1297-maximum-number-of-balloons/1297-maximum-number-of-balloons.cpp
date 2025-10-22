@@ -14,6 +14,7 @@ public:
 
         int ans = INT_MAX;
         for(auto [ch, cnt] : cnt_trgt){
+            if(cnt_text.find(ch) == cnt_text.end()) return 0;
             ans = min(ans, cnt_text[ch] / cnt);
         }
         return ans;
