@@ -25,6 +25,7 @@ This repository contains my solutions to daily LeetCode challenges as I work thr
 | [0347-top-k-frequent-elements](https://github.com/mukkss/DailyLeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/mukkss/DailyLeetCode/tree/master/0605-can-place-flowers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/mukkss/DailyLeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0792-binary-search](https://github.com/mukkss/DailyLeetCode/tree/master/0792-binary-search) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mukkss/DailyLeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
 |  |
@@ -99,6 +100,7 @@ This repository contains my solutions to daily LeetCode challenges as I work thr
 |  |
 | ------- |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/mukkss/DailyLeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0792-binary-search](https://github.com/mukkss/DailyLeetCode/tree/master/0792-binary-search) |
 ## Recursion
 |  |
 | ------- |
