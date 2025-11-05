@@ -27,6 +27,7 @@ This repository contains my solutions to daily LeetCode challenges as I work thr
 | [0745-find-smallest-letter-greater-than-target](https://github.com/mukkss/DailyLeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/mukkss/DailyLeetCode/tree/master/0792-binary-search) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mukkss/DailyLeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1677-matrix-diagonal-sum](https://github.com/mukkss/DailyLeetCode/tree/master/1677-matrix-diagonal-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -176,4 +177,8 @@ This repository contains my solutions to daily LeetCode challenges as I work thr
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mukkss/DailyLeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [1677-matrix-diagonal-sum](https://github.com/mukkss/DailyLeetCode/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
