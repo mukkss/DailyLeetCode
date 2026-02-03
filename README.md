@@ -1,4 +1,4 @@
-﻿
+ï»¿
 # Daily LeetCode Solutions
 
 This repository contains my solutions to daily LeetCode challenges as I work through them. The solutions aim to cover a wide range of problems in different data structures, algorithms, and programming concepts.
@@ -28,6 +28,7 @@ This repository contains my solutions to daily LeetCode challenges as I work thr
 | [0792-binary-search](https://github.com/mukkss/DailyLeetCode/tree/master/0792-binary-search) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mukkss/DailyLeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1677-matrix-diagonal-sum](https://github.com/mukkss/DailyLeetCode/tree/master/1677-matrix-diagonal-sum) |
+| [3952-trionic-array-i](https://github.com/mukkss/DailyLeetCode/tree/master/3952-trionic-array-i) |
 ## Two Pointers
 |  |
 | ------- |
